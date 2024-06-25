@@ -1,0 +1,12 @@
+Admin Login
+username: admin
+password: 12345678
+
+
+faculty Login:
+Id : 12345
+Password: 123456
+
+Student Login:
+Id: 6231415
+Password: 12345678
